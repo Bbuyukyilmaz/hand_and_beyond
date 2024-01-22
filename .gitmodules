@@ -1,0 +1,6 @@
+[submodule "Drivers/MotorDriver"]
+	path = Drivers/MotorDriver
+	url = https://github.com/Bbuyukyilmaz/MotorDriver.git
+[submodule "Drivers/PCListener"]
+	path = Drivers/PCListener
+	url = https://github.com/Bbuyukyilmaz/PCListener.git

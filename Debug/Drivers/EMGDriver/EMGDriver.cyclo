@@ -1,0 +1,10 @@
+../Drivers/EMGDriver/EMGDriver.c:18:6:EmgConfigInit	1
+../Drivers/EMGDriver/EMGDriver.c:75:6:EmgTaskFunction	6
+../Drivers/EMGDriver/EMGDriver.c:128:6:EmgTaskInit	1
+../Drivers/EMGDriver/EMGDriver.c:140:6:EmgNotchFilter	1
+../Drivers/EMGDriver/EMGDriver.c:146:6:ADC_Task	3
+../Drivers/EMGDriver/EMGDriver.c:189:6:setMultiplexerChannel	5
+../Drivers/EMGDriver/EMGDriver.c:218:6:initializeChannel	2
+../Drivers/EMGDriver/EMGDriver.c:227:6:initializeRecorder	2
+../Drivers/EMGDriver/EMGDriver.c:233:6:addData	3
+../Drivers/EMGDriver/EMGDriver.c:265:13:extractFeatures	12

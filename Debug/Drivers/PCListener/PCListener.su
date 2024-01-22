@@ -1,0 +1,4 @@
+../Drivers/PCListener/PCListener.c:23:6:UI_Init	8	static
+../Drivers/PCListener/PCListener.c:30:6:UARTReceiveTask	32	static
+../Drivers/PCListener/PCListener.c:101:6:UARTReceiveTaskInit	24	static
+../Drivers/PCListener/PCListener.c:113:6:USART2_IRQHandler	8	static

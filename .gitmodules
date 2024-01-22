@@ -4,3 +4,6 @@
 [submodule "Drivers/PCListener"]
 	path = Drivers/PCListener
 	url = https://github.com/Bbuyukyilmaz/PCListener.git
+[submodule "Drivers/EMGDriver"]
+	path = Drivers/EMGDriver
+	url = https://github.com/Bbuyukyilmaz/EMGDriver.git
